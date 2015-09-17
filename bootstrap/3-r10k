@@ -1,0 +1,2 @@
+/opt/puppetlabs/puppet/bin/gem install r10k
+mkdir /etc/puppetlabs/r10k/ /var/cache/r10k
