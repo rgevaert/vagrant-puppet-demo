@@ -19,7 +19,7 @@ Vagrant.configure(2) do |config|
   end
 
   config.hostmanager.enabled = true
-  config.hostmanager.manage_host = true
+  config.hostmanager.manage_host = false
   config.hostmanager.ignore_private_ip = false
   config.hostmanager.include_offline = true
 
